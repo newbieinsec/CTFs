@@ -2,10 +2,10 @@
 The goal of this level is for you to log into the game using SSH.
 
 ## Enumeration
-Host name: bandit.labs.overthewire.org
-Port: 2220
-Username: bandit0
-Password: bandit0
+Host name: bandit.labs.overthewire.org\
+Port: 2220\
+Username: bandit0\
+Password: bandit0\
 ## Rabbit Holes
 
 ## Solution
