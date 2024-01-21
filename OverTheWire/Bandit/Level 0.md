@@ -5,7 +5,7 @@ The goal of this level is for you to log into the game using SSH.
 Host name: bandit.labs.overthewire.org\
 Port: 2220\
 Username: bandit0\
-Password: bandit0\
+Password: bandit0
 ## Rabbit Holes
 
 ## Solution
